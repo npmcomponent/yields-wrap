@@ -3,7 +3,7 @@
  * dependencies.
  */
 
-var before = require('before');
+var before = require('yields-before');
 
 /**
  * Wrap the given element with `el`.
